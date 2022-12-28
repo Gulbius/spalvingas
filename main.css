@@ -1,0 +1,28 @@
+.row>*{
+    text-align: center;
+    border: 5px;
+    color: rgb(247, 245, 245);
+    border: 2px solid rgb(251, 250, 251);
+}
+.melyn>*{
+    background-color: rgb(73, 157, 231);
+}
+.zal>*{
+    background-color: rgba(0,138,0);
+}
+.blue>*{
+    background-color: rgba(0,80,240);
+}
+.trump>*{
+    background-color: rgba(183, 14, 216, 0.877);
+}
+.ilg>*{
+    background-color: rgba(145, 216, 14, 0.877);
+}
+.bef>*{
+    background-color: rgba(198, 18, 117, 0.877);
+}
+.last>*{
+    background-color: rgba(240, 7, 7, 0.877);
+    border: 2px white;
+}
